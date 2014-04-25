@@ -15,7 +15,7 @@ Requirements:
 
 2) Impyla -- an implementation of DB API 2 for Impala.
 
-     sudo pip install git+http://github.com/laserson/impyla.git#impyla
+     sudo pip install impyla
 
 3) At least one python driver for a reference database.
 
